@@ -1,0 +1,44 @@
+.login{
+    padding-top: 70%;
+}
+
+/*ion-item{
+    padding-left: 20%;
+  width: 70%;
+}*/
+
+.btn-rounded {
+  border: none;
+  background-color: #FB0104;
+  color: white;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 15px;
+  margin-top: 1.1rem;
+}
+
+.login-form-container {
+    padding-top: 50%;
+    background-color: white;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .input-container-mdp {
+    text-align: center;
+    width: 100%;
+    font-size: 1.1rem;
+  }
+
+
+  .pilpose-logo {
+    margin-top: auto;
+    
+  
+  }

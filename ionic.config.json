@@ -1,0 +1,7 @@
+{
+  "name": "pilposeAppMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
